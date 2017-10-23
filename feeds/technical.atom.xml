@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PoundsXD Technical Blog - Technical</title><link href="https://poundsxd.github.io/PoundsXD-Blog/" rel="alternate"></link><link href="https://poundsxd.github.io/PoundsXD-Blog/feeds/technical.atom.xml" rel="self"></link><id>https://poundsxd.github.io/PoundsXD-Blog/</id><updated>2017-10-23T02:02:00-07:00</updated><entry><title>Setting up Pelican for technical blog posts.</title><link href="https://poundsxd.github.io/PoundsXD-Blog/setting-up-pelican-for-technical-blog-posts.html" rel="alternate"></link><published>2017-10-23T02:02:00-07:00</published><updated>2017-10-23T02:02:00-07:00</updated><author><name>Brian Wheeler</name></author><id>tag:poundsxd.github.io,2017-10-23:/PoundsXD-Blog/setting-up-pelican-for-technical-blog-posts.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;Pelican is mardown based.&lt;/li&gt;
+&lt;li&gt;This is a demo to test pelican.&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
+&lt;li&gt;Pelican is mardown based.&lt;/li&gt;
+&lt;li&gt;This is a demo to test pelican.&lt;/li&gt;
+&lt;/ul&gt;</content></entry></feed>
